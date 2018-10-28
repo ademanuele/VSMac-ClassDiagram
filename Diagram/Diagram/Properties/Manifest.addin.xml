@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ExtensionModel>
+    <Extension
+        path="/MonoDevelop/Ide/Pads">
+        <Pad id="Diagram.DiagramPad"
+            _label="Class Diagram"
+            class="Diagram.DiagramPad"
+						defaultStatus="Floating" />
+    </Extension>
+</ExtensionModel>
